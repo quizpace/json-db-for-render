@@ -14,13 +14,7 @@
       "id": 1
     }
   ],
-  "join": [
-    {
-      "user": "user",
-      "user2": "user2",
-      "gameId": 1
-    }
-  ],
+  "userTTT": [{}],
   "moves": [
     {
       "gameId": 1,
