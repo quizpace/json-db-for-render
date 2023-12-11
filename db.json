@@ -20,8 +20,6 @@
   "moves": [
     {
       "gameId": 1,
-      "playerXcell": "none",
-      "playerOcell": "none",
       "matrix": ["", "", "", "", "", "", "", "", ""],
       "winner": "none"
     }
