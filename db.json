@@ -26,7 +26,7 @@
   },
   "currentTurn": [
     {
-      "turn": "X"
+      "currentTurn": "X"
     }
   ]
 }
