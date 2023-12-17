@@ -27,7 +27,10 @@
   "currentTurn": {
     "turn": "X"
   },
-  "winner": {
-    "win": ""
+  "winnerO": {
+    "winO": "",
+    "winOtimes": "",
+    "winX": "",
+    "winXtimes": ""
   }
 }
