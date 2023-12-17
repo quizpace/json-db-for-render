@@ -26,5 +26,8 @@
   },
   "currentTurn": {
     "turn": "X"
+  },
+  "winner": {
+    "win": ""
   }
 }
