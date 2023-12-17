@@ -24,9 +24,7 @@
   "ticTacToeBoard": {
     "matrix": ["", "", "", "", "", "", "", "", ""]
   },
-  "currentTurn": [
-    {
-      "turn": "X"
-    }
-  ]
+  "currentTurn": {
+    "turn": "X"
+  }
 }
