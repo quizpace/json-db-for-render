@@ -33,16 +33,5 @@
     "winX": "",
     "winXtimes": "0"
   },
-  "players": [
-    {
-      "username": "Player1",
-      "symbol": "X",
-      "miniGameChoice": "rock"
-    },
-    {
-      "username": "Player2",
-      "symbol": "O",
-      "miniGameChoice": "scissors"
-    }
-  ]
+  "players": []
 }
