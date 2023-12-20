@@ -33,5 +33,7 @@
     "winX": "",
     "winXtimes": "0"
   },
-  "players": []
+  "players": [],
+
+  "deleteAllUsersAndChoices": []
 }
