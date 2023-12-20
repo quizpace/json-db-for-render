@@ -2,7 +2,7 @@
   "chats": [
     {
       "user": "Owl",
-      "text": "Welcome my friends :]",
+      "text": "Wellcome my friends :]",
       "time": "19:10:56:656",
       "id": 1
     }
@@ -29,20 +29,8 @@
   },
   "winner": {
     "winO": "",
-    "winOtimes": "0",
+    "winOtimes": "",
     "winX": "",
-    "winXtimes": "0"
-  },
-  "players": [
-    {
-      "username": "Player1",
-      "symbol": "X",
-      "miniGameChoice": "rock"
-    },
-    {
-      "username": "Player2",
-      "symbol": "O",
-      "miniGameChoice": "scissors"
-    }
-  ]
+    "winXtimes": ""
+  }
 }
